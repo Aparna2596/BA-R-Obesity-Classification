@@ -61,5 +61,5 @@ Logistic Regression 0.8650
 	•	Libraries: rpart, randomForest, adabag, nnet, caret
 	•	MS Word & PowerPoint (documentation)
 
-Author
+Author:
 Aparna Mishra MS Business Analytics and AI, UT Dallas
